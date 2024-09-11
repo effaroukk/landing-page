@@ -28,11 +28,4 @@ Ensure you have the following installed on your machine:
 - MongoDB (set up locally or using a cloud provider like MongoDB Atlas)
 - Git
 
-### Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/your-username/my-digital-diary.git
-   cd my-digital-diary
 
